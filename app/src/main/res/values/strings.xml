@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoodEvalQuestionnaire</string>
+    <string name="mood_question">How was your day yesterday?</string>
+    <string name="mood_terrible">Terrible</string>
+    <string name="mood_bad">Bad</string>
+    <string name="mood_normal">Normal</string>
+    <string name="mood_good">Good</string>
+    <string name="mood_marvelous">Marvelous</string>
+    <string name="button_submit">Submit</string>
+</resources>
