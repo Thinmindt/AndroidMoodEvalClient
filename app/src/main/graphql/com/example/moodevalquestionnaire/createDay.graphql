@@ -1,0 +1,7 @@
+mutation CreateDay($data: NewDay!) {
+    createDay(data: $data) {
+        date
+        moodStr
+    }
+}
+
