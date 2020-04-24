@@ -1,5 +1,5 @@
 query DayByDate ($date: NaiveDate!){
-    getDayByDate(date: $date) {
+    getDayByDate(datePassed: $date) {
         moodStr
     }
 }
